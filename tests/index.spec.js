@@ -1,4 +1,4 @@
-import utils from '../../src/helpers/utils';
+import utils from '../src';
 
 describe('utils.js', () => {
   it('When propertyAccessorFromName is called with a value that is not a string undefined', () => {
